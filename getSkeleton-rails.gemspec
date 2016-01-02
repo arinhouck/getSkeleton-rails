@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Arin Houck"]
   spec.email         = ["arinhouck@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Get Skeleton for Rails}
+  spec.description   = %q{Ruby gem that will inject the Skeleton library in your project.}
+  spec.homepage      = "https://github.com/arinhouck/getSkeleton-rails"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
